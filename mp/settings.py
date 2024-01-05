@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-llw4cjpd8p_kk4jr!zffwt1grpe!+hzae@&4ehp91jn0ss=*b3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*','snapify-duxt-main-n6ztehkxya-df.a.run.app']
 
 
 # Application definition
